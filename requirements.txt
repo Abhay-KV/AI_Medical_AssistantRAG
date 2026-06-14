@@ -43,10 +43,10 @@ langchain-core==0.3.28
 langchain-groq==0.2.1
 langchain-huggingface==0.1.2
 langchain-text-splitters==0.3.4
-langgraph==1.2.5
-langgraph-checkpoint==4.1.1
-langgraph-prebuilt==1.1.0
-langgraph-sdk==0.4.2
+langgraph==0.2.60
+langgraph-checkpoint==2.0.9
+langgraph-prebuilt==0.1.2
+langgraph-sdk==0.1.51
 langsmith==0.1.147
 markdown-it-py==4.2.0
 MarkupSafe==3.0.3
